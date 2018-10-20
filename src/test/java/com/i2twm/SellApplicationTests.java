@@ -1,4 +1,4 @@
-package com.intwm;
+package com.i2twm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

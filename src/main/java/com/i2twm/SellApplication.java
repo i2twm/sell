@@ -1,4 +1,4 @@
-package com.intwm;
+package com.i2twm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
